@@ -8,7 +8,6 @@ This Dash app visualizes the Iris dataset using a scatter plot, allowing users t
 - [Setup](#setup)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Overview
 
